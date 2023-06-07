@@ -20,7 +20,7 @@ Programador por vocación y autodidacta de:
 
 ---
 <br>
-Experiencia adquiridad mediante la realizacion de proyectos propios.
+Experiencia adquiridad mediante la realización de proyectos propios.
 <br><br>
 
 <div align="center">
