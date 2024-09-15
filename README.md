@@ -8,13 +8,13 @@
 
 Programador por vocación y autodidacta de:
 
-1. <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="15px" height="15px" alt="python"></a> _Python_ 
+1. <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="16px" height="16px" alt="python"></a> _Python_ 
 
-1. <img src="https://cdn3.emoji.gg/emojis/3203-javascript.png" width="15px" height="15px" alt="javascript"></a> _Javascript_ 
+1. <img src="https://cdn3.emoji.gg/emojis/3203-javascript.png" width="16px" height="16px" alt="javascript"></a> _Javascript_ 
 
-1. <img src="https://cdn3.emoji.gg/emojis/HTML.png" width="15px" height="15px" alt="HTML"></a>  _Html_ 
+1. <img src="https://cdn3.emoji.gg/emojis/HTML.png" width="16px" height="16px" alt="HTML"></a>  _Html_ 
 
-1. <img src="https://cdn3.emoji.gg/emojis/8517-css.png" width="15px" height="15px" alt="css"></a> _Css_ 
+1. <img src="https://cdn3.emoji.gg/emojis/8517-css.png" width="16px" height="16px" alt="css"></a> _Css_ 
 
 1. <img src="https://cdn3.emoji.gg/emojis/3046_MySQL.png" width="25px" height="20px" alt="MySQL"></a> _Mysql_
 
@@ -26,7 +26,7 @@ Programador por vocación y autodidacta de:
 
 ---
 <br>
-Experiencia adquiridad mediante la realización de proyectos propios.
+Experiencia adquiridad mediante la realización de proyectos propios y laborales
 <br><br>
 
 <div align="center">
